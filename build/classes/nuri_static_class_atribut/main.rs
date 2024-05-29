@@ -1,0 +1,2 @@
+nuri_static_class_atribut.main
+nuri_static_class_atribut.Display
